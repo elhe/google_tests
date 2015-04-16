@@ -7,4 +7,4 @@ install requirements
     
 run tests  
   
-    py.test tests
+    py.test tests/main_page_tests.py
